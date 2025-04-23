@@ -8,9 +8,11 @@ Flight delays cause financial losses for airlines and inconvenience for passenge
 Execution Steps:
 
 step1-Install the python libraries using pip (Pandas,Numpy,Matplotlib,Scikitlearn,etc...)
+
 step2-Go to terminal and enter the following command 
 
        python app.py runterminal
        
 step3-Copy the generated url and paste it in the browser
+
 step4- Enter the values in the displayed web page
